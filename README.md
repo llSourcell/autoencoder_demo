@@ -3,7 +3,7 @@ Autoencoder Demo for Fresh Machine Learning #5
 
 Overview
 ============
-This code demos a simple autoencoder that is able to generate handwritten digit images after training against the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset. This the code for 'Build an Autoencoder in 5 Min' on [Youtube](https://youtu.be/yE0dcDNRZjw)
+This code demos a simple autoencoder that is able to generate handwritten digit images after training against the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset. This the code for 'Build an Autoencoder in 5 Min' on [Youtube](https://youtu.be/GWn7vD2Ud3M)
 
 Dependencies
 ============
